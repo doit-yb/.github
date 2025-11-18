@@ -67,8 +67,8 @@
 
 | 역할 | 이름 | 담당 |
 |------|------|-------|
-| PM | 한민우 | 파이프라인 설계 · 방향성 설정 · 팀 에너지 유지 담당|
-| Frontend Developer | 김민수 |웹/앱 UI 구현 담당, 실시간 STT 렌더링|
-| Backend Developer | 한승우 | API 서버 · 문서 자동화 엔진 개발|
-| AI | 강병민 | STT 모델 · 요약 모델 파이프라인 구축 |
-| Designer | 황지원 | UI/UX · 인터랙션 디자인 · 서비스 감성 총괄 |
+| PM | 한민우 | 파이프라인 설계·방향성 설정 담당|
+| Frontend Developer | 김민수 |웹/앱 UI 구현 담당|
+| Backend Developer | 한승우 | API 서버 및 문서 자동화 엔진 개발|
+| AI | 강병민 | STT 모델 및 요약 모델 파이프라인 구축 |
+| Designer | 황지원 | UI/UX ·디자인|
